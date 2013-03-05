@@ -68,7 +68,7 @@
 	<chapter>
 		<title>For webmasters</title>
 		<section>
-			<title>DaPortal/DaPortal-git Content Management System</title>
+			<title>DaPortal Content Management System</title>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&daportal1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&daportalconf5;"/>
 		</section>
