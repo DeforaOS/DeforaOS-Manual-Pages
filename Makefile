@@ -1,9 +1,9 @@
-PACKAGE	= DMP
+PACKAGE	= DeforaOS-Manual-Pages
 VERSION	= 0.0.0
 SUBDIRS	= doc
-RM	?= rm -f
-LN	?= ln -f
-TAR	?= tar -czvf
+RM	= rm -f
+LN	= ln -f
+TAR	= tar -czvf
 
 
 all: subdirs

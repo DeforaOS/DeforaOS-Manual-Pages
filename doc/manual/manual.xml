@@ -2,32 +2,31 @@
 <!-- $Id$ -->
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
 "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY browser1 "../../../../../Apps/Desktop/src/Browser/doc/browser.xml">
-<!ENTITY configure1 "../../../../../Apps/Devel/src/configure/doc/configure.xml">
-<!ENTITY daportal1 "../../../../../Apps/Web/DaPortal/doc/daportal.xml">
-<!ENTITY daportalconf5 "../../../../../Apps/Web/DaPortal/doc/daportal.conf.xml">
-<!ENTITY compose1 "../../../../../Apps/Desktop/src/Mailer/doc/compose.xml">
-<!ENTITY copy1 "../../../../../Apps/Desktop/src/Browser/doc/copy.xml">
-<!ENTITY delete1 "../../../../../Apps/Desktop/src/Browser/doc/delete.xml">
-<!ENTITY desktop1 "../../../../../Apps/Desktop/src/Browser/doc/desktop.xml">
-<!ENTITY desktopctl1 "../../../../../Apps/Desktop/src/Browser/doc/desktopctl.xml">
-<!ENTITY download1 "../../../../../Apps/Desktop/src/Surfer/doc/download.xml">
-<!ENTITY helper1 "../../../../../Apps/Desktop/src/Surfer/doc/helper.xml">
-<!ENTITY locker1 "../../../../../Apps/Desktop/src/Locker/doc/locker.xml">
-<!ENTITY lockerctl1 "../../../../../Apps/Desktop/src/Locker/doc/lockerctl.xml">
-<!ENTITY makepasswd1 "../../../../../Apps/Unix/src/makepasswd/doc/makepasswd.xml">
-<!ENTITY mailer1 "../../../../../Apps/Desktop/src/Mailer/doc/mailer.xml">
-<!ENTITY move1 "../../../../../Apps/Desktop/src/Browser/doc/move.xml">
-<!ENTITY open1 "../../../../../Apps/Desktop/src/Browser/doc/open.xml">
-<!ENTITY panel1 "../../../../../Apps/Desktop/src/Panel/doc/panel.xml">
-<!ENTITY panelctl1 "../../../../../Apps/Desktop/src/Panel/doc/panelctl.xml">
-<!ENTITY panel-embed1 "../../../../../Apps/Desktop/src/Panel/doc/panel-embed.xml">
-<!ENTITY panel-message1 "../../../../../Apps/Desktop/src/Panel/doc/panel-message.xml">
-<!ENTITY panel-notify1 "../../../../../Apps/Desktop/src/Panel/doc/panel-notify.xml">
-<!ENTITY projectconf5 "../../../../../Apps/Devel/src/configure/doc/project.conf.xml">
-<!ENTITY properties1 "../../../../../Apps/Desktop/src/Browser/doc/properties.xml">
-<!ENTITY surfer1 "../../../../../Apps/Desktop/src/Surfer/doc/surfer.xml">
-<!ENTITY view1 "../../../../../Apps/Desktop/src/Browser/doc/view.xml">
+<!ENTITY browser1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/browser.xml">
+<!ENTITY configure1 "../../../../../../../Apps/Devel/src/configure/configure-git/doc/configure.xml">
+<!ENTITY daportal1 "../../../../../../../Apps/Web/src/DaPortal/DaPortal-git/doc/daportal.xml">
+<!ENTITY daportalconf5 "../../../../../../../Apps/Web/src/DaPortal/DaPortal-git/doc/daportal.conf.xml">
+<!ENTITY compose1 "../../../../../../../Apps/Desktop/src/Mailer/Mailer-git/doc/compose.xml">
+<!ENTITY copy1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/copy.xml">
+<!ENTITY delete1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/delete.xml">
+<!ENTITY desktop1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/desktop.xml">
+<!ENTITY desktopctl1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/desktopctl.xml">
+<!ENTITY download1 "../../../../../../../Apps/Desktop/src/Surfer/Surfer-git/doc/download.xml">
+<!ENTITY helper1 "../../../../../../../Apps/Desktop/src/Surfer/Surfer-git/doc/helper.xml">
+<!ENTITY locker1 "../../../../../../../Apps/Desktop/src/Locker/Locker-git/doc/locker.xml">
+<!ENTITY lockerctl1 "../../../../../../../Apps/Desktop/src/Locker/Locker-git/doc/lockerctl.xml">
+<!ENTITY mailer1 "../../../../../../../Apps/Desktop/src/Mailer/Mailer-git/doc/mailer.xml">
+<!ENTITY move1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/move.xml">
+<!ENTITY open1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/open.xml">
+<!ENTITY panel1 "../../../../../../../Apps/Desktop/src/Panel/Panel-git/doc/panel.xml">
+<!ENTITY panelctl1 "../../../../../../../Apps/Desktop/src/Panel/Panel-git/doc/panelctl.xml">
+<!ENTITY panel-embed1 "../../../../../../../Apps/Desktop/src/Panel/Panel-git/doc/panel-embed.xml">
+<!ENTITY panel-message1 "../../../../../../../Apps/Desktop/src/Panel/Panel-git/doc/panel-message.xml">
+<!ENTITY panel-notify1 "../../../../../../../Apps/Desktop/src/Panel/Panel-git/doc/panel-notify.xml">
+<!ENTITY projectconf5 "../../../../../../../Apps/Devel/src/configure/configure-git/doc/project.conf.xml">
+<!ENTITY properties1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/properties.xml">
+<!ENTITY surfer1 "../../../../../../../Apps/Desktop/src/Surfer/Surfer-git/doc/surfer.xml">
+<!ENTITY view1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/view.xml">
 ]>
 <book><?dbhtml filename="manual.html"?>
 	<title>DeforaOS Manual Pages</title>
@@ -57,10 +56,6 @@
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&surfer1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&view1;"/>
 		</section>
-		<section>
-			<title>Unix utilities</title>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&makepasswd1;"/>
-		</section>
 	</chapter>
 	<chapter>
 		<title>For developers</title>
@@ -73,7 +68,7 @@
 	<chapter>
 		<title>For webmasters</title>
 		<section>
-			<title>DaPortal Content Management System</title>
+			<title>DaPortal/DaPortal-git Content Management System</title>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&daportal1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&daportalconf5;"/>
 		</section>

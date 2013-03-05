@@ -1,10 +1,10 @@
 TARGETS	= manual/manual.html
 PREFIX	= /usr/local
 DESTDIR	=
-RM	?= rm -f
-LN	?= ln -f
-MKDIR	?= mkdir -p
-INSTALL	?= install
+RM	= rm -f
+LN	= ln -f
+MKDIR	= mkdir -m 0755 -p
+INSTALL	= install
 
 
 all: $(TARGETS)
@@ -14,6 +14,7 @@ manual/manual.html: manual/manual.xml manual/manual.xsl ../config.sh
 
 clean:
 	$(RM) -- $(manual/manual.html_OBJS)
+	./docbook.sh -c -P "$(PREFIX)" -- "manual/manual.html"
 
 distclean: clean
 	$(RM) -- $(TARGETS)
