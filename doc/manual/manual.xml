@@ -27,6 +27,8 @@
 <!ENTITY panel-embed1 "../../../../../../../Apps/Desktop/src/Panel/Panel-git/doc/panel-embed.xml">
 <!ENTITY panel-message1 "../../../../../../../Apps/Desktop/src/Panel/Panel-git/doc/panel-message.xml">
 <!ENTITY panel-notify1 "../../../../../../../Apps/Desktop/src/Panel/Panel-git/doc/panel-notify.xml">
+<!ENTITY phone1 "../../../../../../../Apps/Desktop/src/Phone/Phone-git/doc/phone.xml">
+<!ENTITY phonectl1 "../../../../../../../Apps/Desktop/src/Phone/Phone-git/doc/phonectl.xml">
 <!ENTITY player1 "../../../../../../../Apps/Desktop/src/Player/Player-git/doc/player.xml">
 <!ENTITY playerctl1 "../../../../../../../Apps/Desktop/src/Player/Player-git/doc/playerctl.xml">
 <!ENTITY projectconf5 "../../../../../../../Apps/Devel/src/configure/configure-git/doc/project.conf.xml">
@@ -65,6 +67,8 @@
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&panel-embed1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&panel-message1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&panel-notify1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&phone1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&phonectl1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&player1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&playerctl1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&properties1;"/>
