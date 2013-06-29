@@ -5,15 +5,16 @@
 <!ENTITY browser1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/browser.xml">
 <!ENTITY camera1 "../../../../../../../Apps/Desktop/src/Camera/Camera-git/doc/camera.xml">
 <!ENTITY coder1 "../../../../../../../Apps/Desktop/src/Coder/Coder-git/doc/coder.xml">
+<!ENTITY compose1 "../../../../../../../Apps/Desktop/src/Mailer/Mailer-git/doc/compose.xml">
 <!ENTITY configure1 "../../../../../../../Apps/Devel/src/configure/configure-git/doc/configure.xml">
+<!ENTITY copy1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/copy.xml">
 <!ENTITY daportal1 "../../../../../../../Apps/Web/src/DaPortal/DaPortal-git/doc/daportal.xml">
 <!ENTITY daportalconf5 "../../../../../../../Apps/Web/src/DaPortal/DaPortal-git/doc/daportal.conf.xml">
-<!ENTITY compose1 "../../../../../../../Apps/Desktop/src/Mailer/Mailer-git/doc/compose.xml">
-<!ENTITY copy1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/copy.xml">
 <!ENTITY delete1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/delete.xml">
 <!ENTITY desktop1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/desktop.xml">
 <!ENTITY desktopctl1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/desktopctl.xml">
 <!ENTITY download1 "../../../../../../../Apps/Desktop/src/Surfer/Surfer-git/doc/download.xml">
+<!ENTITY editor1 "../../../../../../../Apps/Desktop/src/Editor/Editor-git/doc/editor.xml">
 <!ENTITY gallery1 "../../../../../../../Apps/Desktop/src/Camera/Camera-git/doc/gallery.xml">
 <!ENTITY helper1 "../../../../../../../Apps/Desktop/src/Surfer/Surfer-git/doc/helper.xml">
 <!ENTITY locker1 "../../../../../../../Apps/Desktop/src/Locker/Locker-git/doc/locker.xml">
@@ -54,6 +55,7 @@
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&desktop1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&desktopctl1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&download1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&editor1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&gallery1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&helper1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&locker1;"/>
