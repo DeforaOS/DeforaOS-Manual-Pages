@@ -17,6 +17,7 @@
 <!ENTITY editor1 "../../../../../../../Apps/Desktop/src/Editor/Editor-git/doc/editor.xml">
 <!ENTITY gallery1 "../../../../../../../Apps/Desktop/src/Camera/Camera-git/doc/gallery.xml">
 <!ENTITY helper1 "../../../../../../../Apps/Desktop/src/Surfer/Surfer-git/doc/helper.xml">
+<!ENTITY installer1 "../../../../../../../Apps/Desktop/src/Installer/Installer-git/doc/installer.xml">
 <!ENTITY locker1 "../../../../../../../Apps/Desktop/src/Locker/Locker-git/doc/locker.xml">
 <!ENTITY lockerctl1 "../../../../../../../Apps/Desktop/src/Locker/Locker-git/doc/lockerctl.xml">
 <!ENTITY mailer1 "../../../../../../../Apps/Desktop/src/Mailer/Mailer-git/doc/mailer.xml">
@@ -32,6 +33,7 @@
 <!ENTITY phonectl1 "../../../../../../../Apps/Desktop/src/Phone/Phone-git/doc/phonectl.xml">
 <!ENTITY player1 "../../../../../../../Apps/Desktop/src/Player/Player-git/doc/player.xml">
 <!ENTITY playerctl1 "../../../../../../../Apps/Desktop/src/Player/Player-git/doc/playerctl.xml">
+<!ENTITY presenter1 "../../../../../../../Apps/Desktop/src/Presenter/Presenter-git/doc/presenter.xml">
 <!ENTITY projectconf5 "../../../../../../../Apps/Devel/src/configure/configure-git/doc/project.conf.xml">
 <!ENTITY properties1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/properties.xml">
 <!ENTITY sequel1 "../../../../../../../Apps/Desktop/src/Coder/Coder-git/doc/sequel.xml">
@@ -58,6 +60,7 @@
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&editor1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&gallery1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&helper1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&installer1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&locker1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&lockerctl1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&mailer1;"/>
@@ -73,6 +76,7 @@
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&phonectl1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&player1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&playerctl1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&presenter1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&properties1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&sequel1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&simulator1;"/>
