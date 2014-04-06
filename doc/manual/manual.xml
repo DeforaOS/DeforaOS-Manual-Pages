@@ -50,47 +50,57 @@
 		<title>For users</title>
 		<section>
 			<title>Desktop environment</title>
+			<section>Graphical applications</section>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&browser1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&camera1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&coder1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&compose1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&copy1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&delete1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&desktop1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&desktopctl1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&download1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&editor1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&filter1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&copy1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&gallery1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&helper1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&installer1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&locker1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&lockerctl1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&mailer1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&mixer1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&player1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&presenter1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&surfer1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&terminal1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&wifibrowser1;"/>
+		</section>
+		<section>
+			<title>Services</title>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&desktop1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&locker1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&panel1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&phone1;"/>
+		</section>
+		<section>
+			<title>Helper programs</title>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&delete1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&desktopctl1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&download1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&filter1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&lockerctl1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&move1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&open1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&panel1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&panelctl1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&panel-embed1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&panel-message1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&panel-notify1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&phone1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&phonectl1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&player1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&playerctl1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&presenter1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&properties1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&sequel1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&simulator1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&surfer1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&terminal1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&view1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&wifibrowser1;"/>
 		</section>
 	</chapter>
 	<chapter>
 		<title>For developers</title>
+		<section>
+			<title>Development environment</title>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&coder1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&sequel1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&simulator1;"/>
+		</section>
 		<section>
 			<title>configure build system</title>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&configure1;"/>
