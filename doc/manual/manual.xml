@@ -2,6 +2,9 @@
 <!-- $Id$ -->
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
 "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY copyright "The DeforaOS Project">
+<!ENTITY email "root@defora.org">
+<!ENTITY title "DeforaOS Manual Pages">
 <!ENTITY browser1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/browser.xml">
 <!ENTITY camera1 "../../../../../../../Apps/Desktop/src/Camera/Camera-git/doc/camera.xml">
 <!ENTITY coder1 "../../../../../../../Apps/Desktop/src/Coder/Coder-git/doc/coder.xml">
@@ -45,7 +48,15 @@
 <!ENTITY wifibrowser1 "../../../../../../../Apps/Desktop/src/Panel/Panel-git/doc/wifibrowser.xml">
 ]>
 <book><?dbhtml filename="manual.html"?>
-	<title>DeforaOS Manual Pages</title>
+	<title>&title;</title>
+	<info>
+		<copyright>
+			<year>2012</year>
+			<year>2013</year>
+			<year>2014</year>
+			<holder>&copyright; &lt;&email;&gt;</holder>
+		</copyright>
+	</info>
 	<chapter>
 		<title>For users</title>
 		<section>
