@@ -9,7 +9,7 @@
 <!ENTITY camera1 "../../../../../../../Apps/Desktop/src/Camera/Camera-git/doc/camera.xml">
 <!ENTITY coder1 "../../../../../../../Apps/Desktop/src/Coder/Coder-git/doc/coder.xml">
 <!ENTITY compose1 "../../../../../../../Apps/Desktop/src/Mailer/Mailer-git/doc/compose.xml">
-<!ENTITY config1 "../../../../../../../System/src/libSystem/libSystem-git/doc/config.xml">
+<!ENTITY configctl1 "../../../../../../../System/src/libSystem/libSystem-git/doc/configctl.xml">
 <!ENTITY configure1 "../../../../../../../Apps/Devel/src/configure/configure-git/doc/configure.xml">
 <!ENTITY copy1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/copy.xml">
 <!ENTITY daportal1 "../../../../../../../Apps/Web/src/DaPortal/DaPortal-git/doc/daportal.xml">
@@ -109,7 +109,7 @@
 		<title>For administrators</title>
 		<section>
 			<title>Configuration handling</title>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&config1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&configctl1;"/>
 		</section>
 	</chapter>
 	<chapter>
