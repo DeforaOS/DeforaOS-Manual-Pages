@@ -39,6 +39,7 @@
 <!ENTITY player1 "../../../../../../../Apps/Desktop/src/Player/Player-git/doc/player.xml">
 <!ENTITY playerctl1 "../../../../../../../Apps/Desktop/src/Player/Player-git/doc/playerctl.xml">
 <!ENTITY presenter1 "../../../../../../../Apps/Desktop/src/Presenter/Presenter-git/doc/presenter.xml">
+<!ENTITY progress1 "../../../../../../../Apps/Desktop/src/Accessories/Accessories-git/doc/progress.xml">
 <!ENTITY projectconf5 "../../../../../../../Apps/Devel/src/configure/configure-git/doc/project.conf.xml">
 <!ENTITY properties1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/properties.xml">
 <!ENTITY sequel1 "../../../../../../../Apps/Desktop/src/Coder/Coder-git/doc/sequel.xml">
@@ -101,6 +102,7 @@
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&panel-notify1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&phonectl1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&playerctl1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&progress1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&properties1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&view1;"/>
 		</section>
