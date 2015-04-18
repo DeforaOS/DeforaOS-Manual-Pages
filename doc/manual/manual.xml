@@ -23,6 +23,7 @@
 <!ENTITY gallery1 "../../../../../../../Apps/Desktop/src/Camera/Camera-git/doc/gallery.xml">
 <!ENTITY gprs1 "../../../../../../../Apps/Desktop/src/Phone/Phone-git/doc/gprs.xml">
 <!ENTITY helper1 "../../../../../../../Apps/Desktop/src/Surfer/Surfer-git/doc/helper.xml">
+<!ENTITY htmlapp1 "../../../../../../../Apps/Desktop/src/Surfer/Surfer-git/doc/htmlapp.xml">
 <!ENTITY installer1 "../../../../../../../Apps/Desktop/src/Installer/Installer-git/doc/installer.xml">
 <!ENTITY locker1 "../../../../../../../Apps/Desktop/src/Locker/Locker-git/doc/locker.xml">
 <!ENTITY lockerctl1 "../../../../../../../Apps/Desktop/src/Locker/Locker-git/doc/lockerctl.xml">
@@ -73,6 +74,7 @@
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&gallery1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&gprs1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&helper1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&htmlapp1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&installer1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&mailer1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&mixer1;"/>
