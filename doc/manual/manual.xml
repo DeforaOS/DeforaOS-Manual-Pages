@@ -48,6 +48,7 @@
 <!ENTITY simulator1 "../../../../../../../Apps/Desktop/src/Coder/Coder-git/doc/simulator.xml">
 <!ENTITY surfer1 "../../../../../../../Apps/Desktop/src/Surfer/Surfer-git/doc/surfer.xml">
 <!ENTITY terminal1 "../../../../../../../Apps/Desktop/src/Terminal/Terminal-git/doc/terminal.xml">
+<!ENTITY todo1 "../../../../../../../Apps/Desktop/src/Todo/Todo-git/doc/todo.xml">
 <!ENTITY view1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/view.xml">
 <!ENTITY wifibrowser1 "../../../../../../../Apps/Desktop/src/Panel/Panel-git/doc/wifibrowser.xml">
 ]>
@@ -83,6 +84,7 @@
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&presenter1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&surfer1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&terminal1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&todo1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&wifibrowser1;"/>
 		</section>
 		<section>
