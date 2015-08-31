@@ -30,6 +30,7 @@
 <!ENTITY mailer1 "../../../../../../../Apps/Desktop/src/Mailer/Mailer-git/doc/mailer.xml">
 <!ENTITY mixer1 "../../../../../../../Apps/Desktop/src/Mixer/Mixer-git/doc/mixer.xml">
 <!ENTITY move1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/move.xml">
+<!ENTITY notes1 "../../../../../../../Apps/Desktop/src/Notes/Notes-git/doc/notes.xml">
 <!ENTITY open1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/open.xml">
 <!ENTITY panel1 "../../../../../../../Apps/Desktop/src/Panel/Panel-git/doc/panel.xml">
 <!ENTITY panelctl1 "../../../../../../../Apps/Desktop/src/Panel/Panel-git/doc/panelctl.xml">
@@ -80,6 +81,7 @@
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&installer1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&mailer1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&mixer1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&notes1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&player1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&presenter1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&surfer1;"/>
