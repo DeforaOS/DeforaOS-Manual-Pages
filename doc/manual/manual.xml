@@ -8,6 +8,7 @@
 <!ENTITY browser1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/browser.xml">
 <!ENTITY camera1 "../../../../../../../Apps/Desktop/src/Camera/Camera-git/doc/camera.xml">
 <!ENTITY coder1 "../../../../../../../Apps/Desktop/src/Coder/Coder-git/doc/coder.xml">
+<!ENTITY compare1 "../../../../../../../Apps/Desktop/src/Accessories/Accessories-git/doc/compare.xml">
 <!ENTITY compose1 "../../../../../../../Apps/Desktop/src/Mailer/Mailer-git/doc/compose.xml">
 <!ENTITY configctl1 "../../../../../../../System/src/libSystem/libSystem-git/doc/configctl.xml">
 <!ENTITY configure1 "../../../../../../../Apps/Devel/src/configure/configure-git/doc/configure.xml">
@@ -20,6 +21,7 @@
 <!ENTITY download1 "../../../../../../../Apps/Desktop/src/Surfer/Surfer-git/doc/download.xml">
 <!ENTITY editor1 "../../../../../../../Apps/Desktop/src/Editor/Editor-git/doc/editor.xml">
 <!ENTITY filter1 "../../../../../../../Apps/Desktop/src/Editor/Editor-git/doc/filter.xml">
+<!ENTITY fontsel1 "../../../../../../../Apps/Desktop/src/Accessories/Accessories-git/doc/fontsel.xml">
 <!ENTITY gallery1 "../../../../../../../Apps/Desktop/src/Camera/Camera-git/doc/gallery.xml">
 <!ENTITY gprs1 "../../../../../../../Apps/Desktop/src/Phone/Phone-git/doc/gprs.xml">
 <!ENTITY helper1 "../../../../../../../Apps/Desktop/src/Surfer/Surfer-git/doc/helper.xml">
@@ -71,9 +73,11 @@
 			<section>Graphical applications</section>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&browser1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&camera1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&compare1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&compose1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&editor1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&copy1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&fontsel1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&gallery1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&gprs1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&helper1;"/>
