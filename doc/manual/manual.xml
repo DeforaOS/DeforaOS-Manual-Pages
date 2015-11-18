@@ -53,6 +53,7 @@
 <!ENTITY terminal1 "../../../../../../../Apps/Desktop/src/Terminal/Terminal-git/doc/terminal.xml">
 <!ENTITY todo1 "../../../../../../../Apps/Desktop/src/Todo/Todo-git/doc/todo.xml">
 <!ENTITY view1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/view.xml">
+<!ENTITY widget1 "../../../../../../../Apps/Desktop/src/libDesktop/libDesktop-git/doc/widget.xml">
 <!ENTITY wifibrowser1 "../../../../../../../Apps/Desktop/src/Panel/Panel-git/doc/wifibrowser.xml">
 ]>
 <book><?dbhtml filename="manual.html"?>
@@ -134,6 +135,7 @@
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&coder1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&sequel1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&simulator1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&widget1;"/>
 		</section>
 		<section>
 			<title>configure build system</title>
