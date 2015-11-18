@@ -77,13 +77,10 @@
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&compare1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&compose1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&editor1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&copy1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&fontsel1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&gallery1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&gprs1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&helper1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&htmlapp1;"/>
-			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&installer1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&mailer1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&mixer1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&notes1;"/>
@@ -103,10 +100,13 @@
 		</section>
 		<section>
 			<title>Helper programs</title>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&copy1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&delete1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&desktopctl1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&download1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&filter1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&htmlapp1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&installer1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&lockerctl1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&move1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&open1;"/>
