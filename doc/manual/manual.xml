@@ -47,6 +47,7 @@
 <!ENTITY progress1 "../../../../../../../Apps/Desktop/src/Accessories/Accessories-git/doc/progress.xml">
 <!ENTITY projectconf5 "../../../../../../../Apps/Devel/src/configure/configure-git/doc/project.conf.xml">
 <!ENTITY properties1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/properties.xml">
+<!ENTITY runso1 "../../../../../../../System/src/libMarshall/libMarshall-git/doc/runso.xml">
 <!ENTITY sequel1 "../../../../../../../Apps/Desktop/src/Coder/Coder-git/doc/sequel.xml">
 <!ENTITY simulator1 "../../../../../../../Apps/Desktop/src/Coder/Coder-git/doc/simulator.xml">
 <!ENTITY surfer1 "../../../../../../../Apps/Desktop/src/Surfer/Surfer-git/doc/surfer.xml">
@@ -126,6 +127,7 @@
 		<section>
 			<title>Configuration handling</title>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&configctl1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&runso1;"/>
 		</section>
 	</chapter>
 	<chapter>
