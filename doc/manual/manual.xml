@@ -15,6 +15,7 @@
 <!ENTITY copy1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/copy.xml">
 <!ENTITY daportal1 "../../../../../../../Apps/Web/src/DaPortal/DaPortal-git/doc/daportal.xml">
 <!ENTITY daportalconf5 "../../../../../../../Apps/Web/src/DaPortal/DaPortal-git/doc/daportal.conf.xml">
+<!ENTITY debugger1 "../../../../../../../Apps/Desktop/src/Coder/Coder-git/doc/debugger.xml">
 <!ENTITY delete1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/delete.xml">
 <!ENTITY desktop1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/desktop.xml">
 <!ENTITY desktopctl1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/desktopctl.xml">
@@ -136,6 +137,7 @@
 		<section>
 			<title>Development environment</title>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&coder1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&debugger1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&sequel1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&simulator1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&widget1;"/>
