@@ -50,6 +50,7 @@
 <!ENTITY properties1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/properties.xml">
 <!ENTITY runso1 "../../../../../../../System/src/libMarshall/libMarshall-git/doc/runso.xml">
 <!ENTITY sequel1 "../../../../../../../Apps/Desktop/src/Coder/Coder-git/doc/sequel.xml">
+<!ENTITY settings1 "../../../../../../../Apps/Desktop/src/Panel/Panel-git/doc/settings.xml">
 <!ENTITY simulator1 "../../../../../../../Apps/Desktop/src/Coder/Coder-git/doc/simulator.xml">
 <!ENTITY surfer1 "../../../../../../../Apps/Desktop/src/Surfer/Surfer-git/doc/surfer.xml">
 <!ENTITY terminal1 "../../../../../../../Apps/Desktop/src/Terminal/Terminal-git/doc/terminal.xml">
@@ -90,6 +91,7 @@
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&notes1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&player1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&presenter1;"/>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&settings1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&surfer1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&terminal1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&todo1;"/>
