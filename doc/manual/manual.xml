@@ -15,6 +15,7 @@
 <!ENTITY copy1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/copy.xml">
 <!ENTITY daportal1 "../../../../../../../Apps/Web/src/DaPortal/DaPortal-git/doc/daportal.xml">
 <!ENTITY daportalconf5 "../../../../../../../Apps/Web/src/DaPortal/DaPortal-git/doc/daportal.conf.xml">
+<!ENTITY database1 "../../../../../../../Apps/Database/src/libDatabase/libDatabase-git/doc/database.xml">
 <!ENTITY debugger1 "../../../../../../../Apps/Desktop/src/Coder/Coder-git/doc/debugger.xml">
 <!ENTITY delete1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/delete.xml">
 <!ENTITY desktop1 "../../../../../../../Apps/Desktop/src/Browser/Browser-git/doc/desktop.xml">
@@ -134,6 +135,10 @@
 			<title>Configuration handling</title>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&configctl1;"/>
 			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&runso1;"/>
+		</section>
+		<section>
+			<title>Database administration</title>
+			<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="&database1;"/>
 		</section>
 	</chapter>
 	<chapter>
